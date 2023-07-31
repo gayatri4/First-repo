@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.back-image {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/yoga-bg.png");
+    background-size: cover;
+    width: 70vw;
+    padding: 25px;
+}
+
+.yoga-text {
+    font-family: "Roboto";
+    font-size: 40px;
+    text-align: center;
+    font-weight: 1000;
+    color: #132d84;
+    padding: 50px;
+}
+
+.home-image {
+    height: 450px;
+    width: 350px;
+}
+
+.yoga-para {
+    font-family: "Roboto";
+    font-size: 28px;
+    text-align: center;
+    font-weight: 600;
+    color: #253263;
+}
+
+.button-content {
+    height: 40px;
+    font-size: 18px;
+    font-weight: 600;
+    background-color: #253263;
+    border-width: 0px;
+    margin-bottom: 10px;
+}
+
+
+
+
+.detail-back-image {
+    background-color: #ffedcb;
+    background-size: cover;
+    width: 85vw;
+    padding: 25px;
+}
+
+.detail-home-image {
+    height: 300px;
+    width: 250px;
+}
+
+.detail-yoga-text {
+    font-family: "Roboto";
+    font-size: 35px;
+    text-align: center;
+    font-weight: 500;
+    color: #132d84;
+    padding: 15px;
+}
+
+.detail-card {
+    background-color: #fad693;
+    margin: 15px;
+    padding: 8px;
+    border-radius: 12px;
+}
+
+.yoga1-picture {
+    height: 200px;
+    width: 200px;
+}
+
+.yoga1-heading {
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: 550;
+    color: #253263;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.yoga1-para {
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: 500;
+    color: #323f4b;
+    padding: 16px;
+}
+
+.yoga1-button {
+    height: 40px;
+    width: 100px;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: #132d84;
+    color: #ffffff;
+}
